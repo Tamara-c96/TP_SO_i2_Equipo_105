@@ -1,14 +1,16 @@
 ---ALFA--- 
 Nombre: Tamara
 Apellido: Cortes
-
+---GAMMA---
+Nombre: Fausto
+Apellido: Durzo
 ---BETA--- 
 Nombre: Casas
 Apellido: Gabriel Humberto
 
 RESPUESTAS:
-A) Se actualiza dando click en Sync Fork.
-B) Si.
+A)  Usando los comandos git fetch upstream y git merge upstream/main para traer los cambios del repo original y combinarlos con el que hice fork.
+B) No, los forks se sincronizan con el repo original.
 C)
 D)
 E)
