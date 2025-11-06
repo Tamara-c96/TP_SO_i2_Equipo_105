@@ -15,18 +15,19 @@ A)  Usando los comandos git fetch upstream y git merge upstream/main para traer 
 B) No, los forks se sincronizan con el repo original.
 C) Si.
 D) No se pierden, se combina con lo que hicieron los demas, si asi lo quiere el dueño del repositorio.
-   2 - git add .
-       git commit -m ""
-       git push
+E)   
+	2 - git add .
+      	 git commit -m ""
+      	 git push
 
 
-   3 - git clone https://github.com/Gabrielcasas002/Curso_de_ingreso_PYTHON
-       git add .
-       git commit -m ""
-       git push
+	3 - git clone tps://github.com/Gabrielcasas002/Curso_de_ingreso_PYTHON
+      	 git add .
+       	 git commit -m ""
+       	 git push
 
-   4 - git add .
-       git commit -m ""
-       git push
+	4 - git add .
+       	 git commit -m ""
+         git push
 
-    5 - git clone https://github.com/Gabrielcasas002/Curso_de_ingreso_PYTHON
+    	5 - git clone https://github.com/Gabrielcasas002/Curso_de_ingreso_PYTHON
