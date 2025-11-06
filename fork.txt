@@ -1,4 +1,4 @@
 Nombre: Tamara
 Apellido: Cortes
 IP:    Direccion IPv4. . . . . . . . . . . . . . : 192.168.1.37
-Fecha y Hora: Thu Oct 23 12:09:34     2025
+Fecha y Hora: Thu Oct 23 12:09:34     2025..
