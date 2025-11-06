@@ -1,9 +1,11 @@
 ---ALFA--- 
 Nombre: Tamara
 Apellido: Cortes
+
 ---GAMMA---
 Nombre: Fausto
 Apellido: Durzo
+
 ---BETA--- 
 Nombre: Casas
 Apellido: Gabriel Humberto
@@ -11,6 +13,6 @@ Apellido: Gabriel Humberto
 RESPUESTAS:
 A)  Usando los comandos git fetch upstream y git merge upstream/main para traer los cambios del repo original y combinarlos con el que hice fork.
 B) No, los forks se sincronizan con el repo original.
-C)
-D)
+C) Si.
+D) No se pierden, se combina con lo que hicieron los demas, si asi lo quiere el dueño del repositorio.
 E)
