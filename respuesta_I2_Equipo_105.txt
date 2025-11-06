@@ -1,0 +1,14 @@
+---ALFA--- 
+Nombre: Tamara
+Apellido: Cortes
+
+---BETA--- 
+Nombre: Casas
+Apellido: Gabriel Humberto
+
+RESPUESTAS:
+A) Se actualiza dando click en Sync Fork.
+B) Si.
+C)
+D)
+E)
