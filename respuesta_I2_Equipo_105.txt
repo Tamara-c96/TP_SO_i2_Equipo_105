@@ -14,3 +14,18 @@ B) No, los forks se sincronizan con el repo original.
 C)
 D)
 E)
+   2 - git add .
+       git commit -m ""
+       git push
+
+
+   3 - git clone https://github.com/Gabrielcasas002/Curso_de_ingreso_PYTHON
+       git add .
+       git commit -m ""
+       git push
+
+   4 - git add .
+       git commit -m ""
+       git push
+
+    5 - git clone https://github.com/Gabrielcasas002/Curso_de_ingreso_PYTHON
